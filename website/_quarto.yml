@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: christinaf075.github.io
+  output-dir: docs
 
 website:
   site-url: "https://christinaf075.github.io"
