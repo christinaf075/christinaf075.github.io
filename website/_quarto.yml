@@ -16,7 +16,6 @@ format:
   html:
     theme:
       - lumen
-      - brand
     css: styles.css
     toc: true
 
