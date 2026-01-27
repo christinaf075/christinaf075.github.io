@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: website_workspace
 
 website:
   site-url: "https://christinaf075.github.io"
