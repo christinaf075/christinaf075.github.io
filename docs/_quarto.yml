@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: "https://christinaf075.github.io"
+  title: "ChristinaFan"
+  description: "Welcome to test Fan's academic website"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+
+
