@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "website/index.html",
+    "href": "website/index.html",
+    "title": "ChristinaFan",
+    "section": "",
+    "text": "[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]"
+  },
+  {
+    "objectID": "website/index.html#about",
+    "href": "website/index.html#about",
+    "title": "ChristinaFan",
+    "section": "",
+    "text": "[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]"
+  },
+  {
+    "objectID": "website/index.html#research-interests",
+    "href": "website/index.html#research-interests",
+    "title": "ChristinaFan",
+    "section": "Research Interests",
+    "text": "Research Interests\n[My research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes play a role in cognitive processes like memory, perception, and other functions.\nI’m currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits.]"
+  },
+  {
+    "objectID": "website/index.html#contact",
+    "href": "website/index.html#contact",
+    "title": "ChristinaFan",
+    "section": "Contact",
+    "text": "Contact\n[Feel free to reach out to me at c24fan@uwaterloo.ca]\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quit",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "website/about.html",
+    "href": "website/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
