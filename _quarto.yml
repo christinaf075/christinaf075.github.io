@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "quit"
+  site-url: "https://christinaf075.github.io"
+  title: "ChristinaFan"
+  description: "Welcome to test Fan's academic website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: lumen
     css: styles.css
     toc: true
 
