@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-This is Christina Fan's personal website.
+## About
+
+[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]
