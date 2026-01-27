@@ -8,9 +8,8 @@ website:
   description: "Welcome to test Fan's academic website"
   navbar:
     left:
-      - href: index.qmd
-        text: "Home"
-      - about.qmd
+      - text: Home
+        href: index.qmd
 
 
 format:
