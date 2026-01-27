@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://christinaf075.github.io"
   title: "ChristinaFan"
+  description: "Welcome to test Fan's academic website"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - about.qmd
+
 
 format:
   html:
     theme:
-      - cosmo
+      - lumen
       - brand
     css: styles.css
     toc: true
