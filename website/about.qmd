@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-## About
-
-[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]
