@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "not quit",
+    "title": "ChristinaFan",
     "section": "",
-    "text": "This is a Quarto website. And this is a change.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]"
   },
   {
     "objectID": "index.html#about",
@@ -26,5 +26,12 @@
     "title": "ChristinaFan",
     "section": "Contact",
     "text": "Contact\n[Feel free to reach out to me at c24fan@uwaterloo.ca]\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is Christina Fan’s personal website."
   }
 ]
