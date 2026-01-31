@@ -1,20 +1,18 @@
 ---
-title: "ChristinaFan"
+title: "Christina Fan"
 ---
+![](images/mmexport1691716909593.jpeg){width=250px}
 ## About
 
-[I am a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.]
+Welcome to my academic website! My name is Christina Fan and I'm a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.
 
 ## Research Interests
 
-[My research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes play a role in cognitive processes like memory, perception, and other functions.
+My research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes that play a role in cognitive processes like memory, perception, and other functions.
 
-I'm currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits.]
+I'm currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits.
 
 ## Contact
 
-[Feel free to reach out to me at c24fan@uwaterloo.ca]
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Feel free to reach out to me at c24fan@uwaterloo.ca
+Thanks for dropping by my website :)

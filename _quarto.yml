@@ -4,13 +4,13 @@ project:
 
 website:
   site-url: "https://christinaf075.github.io"
-  title: "ChristinaFan"
-  description: "Welcome to test Fan's academic website"
+  title: "Christina Fan"
+  description: "Welcome to my academic website."
   navbar:
     left:
       - text: Home
         href: index.qmd
-      - text: About
+      - text: CV
         href: about.qmd
 
 
