@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
     "title": "Christina Fan",
-    "section": "",
-    "text": "## About\nWelcome to my academic website! My name is Christina Fan and I’m a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo."
+    "section": "About",
+    "text": "About\nWelcome to my academic website! My name is Christina Fan and I’m a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo."
   },
   {
     "objectID": "index.html#research-interests",
