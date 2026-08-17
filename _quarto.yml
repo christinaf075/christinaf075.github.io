@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: CV
         href: files/CV-Christina Fan 2026.pdf
+      - text: Posters/Conferences
+        href: posters.qmd
 
 
 format:
