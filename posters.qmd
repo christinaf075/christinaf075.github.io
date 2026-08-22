@@ -3,21 +3,21 @@ title: "Poster Presentations"
 ---
 
 ## Sunnybrook Summer Student Poster Competition 2026
-![](images/sunnybrookduo.jpg){width=300px height=300px}
+![](images/sunnybrookduo.jpg){width=500px height=400px}
 
 **Title: Vascular Medication Profile Moderates the Cognitive Effects of Exercise-Primed tDCS**
 
 August 12th, 2026; This project explored the moderation effect of older adults' vascular medication type on their response to different types of treatment in terms of their cognition.
 
 ## PATh Symposium 2026
-![](images/path.jpg){width=300px height=300px height=300px}
+![](images/path.jpg){width=600px height=400px}
 
 **Title: Harnessing Neuroplasticity to Boost 3D Vision in Adults with Amblyopia**
 
 April 7th, 2026; This presentation features the proposal of the use of an optical illusion called the Pulfrich Effect to improve stereopsis in adults with amblyopia.
 
 ## LOVE Conference 2026
-![](images/loveconference.jpg){width=300px}
+![](images/loveconference.jpg){width=500px height=490px}
 
 **Title: Cortical Mechanisms Underlying Audiovisual Integration in Healthy Aging: A TMS Study**
 
