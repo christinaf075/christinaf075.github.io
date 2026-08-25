@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal: Life and Hobbies",
+    "section": "",
+    "text": "When I’m not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)\n\n\n\n&lt;h2&gt;A Little Life&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/food2024.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/food2025.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/smoothie2023.jpg\" class=\"photo photo-3\"&gt;\n  &lt;img src=\"personal/food2026.jpg\" class=\"photo photo-4\"&gt;\n  &lt;img src=\"personal/smoothie2025.jpg\" class=\"photo photo-5\"&gt;\n&lt;/div&gt;\n\n\n\n&lt;h2&gt;Places&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/minayears.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/sunset.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/mina2026.jpg\" class=\"photo photo-3\"&gt;\n&lt;/div&gt;\n\n ←\n 1 / 2 \n→"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Christina Fan",
+    "section": "About",
+    "text": "About\nWelcome to my academic website! My name is Christina Fan and I’m a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Christina Fan",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes that play a role in cognitive processes like memory, perception, and other functions.\nI’m currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Christina Fan",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to me at c24fan@uwaterloo.ca Thanks for dropping by my website :)"
+  },
+  {
     "objectID": "posters.html",
     "href": "posters.html",
     "title": "Poster Presentations",
@@ -26,33 +54,5 @@
     "title": "Poster Presentations",
     "section": "LOVE Conference 2026",
     "text": "LOVE Conference 2026\n\nTitle: Cortical Mechanisms Underlying Audiovisual Integration in Healthy Aging: A TMS Study\nFebruary 6th; This study examines the use of TMS to modify cortical inhibition processes in the occipital cortex and its impacts on multisensory integration in older adults."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Christina Fan",
-    "section": "About",
-    "text": "About\nWelcome to my academic website! My name is Christina Fan and I’m a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Christina Fan",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes that play a role in cognitive processes like memory, perception, and other functions.\nI’m currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Christina Fan",
-    "section": "Contact",
-    "text": "Contact\nFeel free to reach out to me at c24fan@uwaterloo.ca Thanks for dropping by my website :)"
-  },
-  {
-    "objectID": "personal.html",
-    "href": "personal.html",
-    "title": "Personal: Life and Hobbies",
-    "section": "",
-    "text": "When I’m not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)\n\n\n\n&lt;h2&gt;A Little Life&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/food2024.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/food2025.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/smoothie2023.jpg\" class=\"photo photo-3\"&gt;\n  &lt;img src=\"personal/food2026.jpg\" class=\"photo photo-4\"&gt;\n  &lt;img src=\"personal/smoothie2025.jpg\" class=\"photo photo-5\"&gt;\n&lt;/div&gt;\n\n\n\n&lt;h2&gt;Places&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/minayears.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/sunset.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/mina2026.jpg\" class=\"photo photo-3\"&gt;\n&lt;/div&gt;\n\n ←\n 1 / 2 \n→"
   }
 ]
