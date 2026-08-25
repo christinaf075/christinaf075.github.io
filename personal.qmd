@@ -1,0 +1,81 @@
+---
+title: "Personal: Life and Hobbies"
+---
+
+When I'm not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)
+
+<div class="personal-carousel">
+
+  <!-- Slide 1 -->
+  <div class="personal-slide active">
+
+    <h2>A Little Life</h2>
+
+    <div class="photo-collage">
+      <img src="images/personal/dog.jpg" class="photo photo-1">
+      <img src="images/personal/food.jpg" class="photo photo-2">
+      <img src="images/personal/travel.jpg" class="photo photo-3">
+      <img src="images/personal/cooking.jpg" class="photo photo-4">
+      <img src="images/personal/coffee.jpg" class="photo photo-5">
+      <img src="images/personal/nature.jpg" class="photo photo-6">
+    </div>
+
+  </div>
+
+
+  <!-- Slide 2 -->
+  <div class="personal-slide">
+
+    <h2>Places</h2>
+
+    <div class="photo-collage">
+      <img src="images/personal/trip1.jpg" class="photo photo-1">
+      <img src="images/personal/trip2.jpg" class="photo photo-2">
+      <img src="images/personal/trip3.jpg" class="photo photo-3">
+      <img src="images/personal/trip4.jpg" class="photo photo-4">
+      <img src="images/personal/trip5.jpg" class="photo photo-5">
+      <img src="images/personal/trip6.jpg" class="photo photo-6">
+    </div>
+
+  </div>
+
+
+  <!-- Navigation -->
+  <button class="carousel-button prev" onclick="changeSlide(-1)">&#8592;</button>
+
+  <span class="slide-counter">
+    <span id="slide-number">1</span> / 2
+  </span>
+
+  <button class="carousel-button next" onclick="changeSlide(1)">&#8594;</button>
+
+</div>
+
+
+<script>
+
+let currentSlide = 0;
+
+function changeSlide(direction) {
+
+  const slides = document.querySelectorAll(".personal-slide");
+
+  slides[currentSlide].classList.remove("active");
+
+  currentSlide += direction;
+
+  if (currentSlide >= slides.length) {
+    currentSlide = 0;
+  }
+
+  if (currentSlide < 0) {
+    currentSlide = slides.length - 1;
+  }
+
+  slides[currentSlide].classList.add("active");
+
+  document.getElementById("slide-number").textContent =
+    currentSlide + 1;
+}
+
+</script>

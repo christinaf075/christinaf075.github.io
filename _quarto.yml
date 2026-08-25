@@ -11,9 +11,11 @@ website:
       - text: Home
         href: index.qmd
       - text: CV
-        href: files/CV-Christina Fan 2026.pdf
+        href: files/GradSchool_CV.pdf
       - text: Poster Presentations
         href: posters.qmd
+      - text: Personal
+        href: personal.qmd
 
 
 format:
