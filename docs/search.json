@@ -7,25 +7,32 @@
     "text": "When I’m not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)\n\n\n\n&lt;h2&gt;A Little Life&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/food2024.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/food2025.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/smoothie2023.jpg\" class=\"photo photo-3\"&gt;\n  &lt;img src=\"personal/food2026.jpg\" class=\"photo photo-4\"&gt;\n  &lt;img src=\"personal/smoothie2025.jpg\" class=\"photo photo-5\"&gt;\n&lt;/div&gt;\n\n\n\n&lt;h2&gt;Places&lt;/h2&gt;\n\n&lt;div class=\"photo-collage\"&gt;\n  &lt;img src=\"personal/minayears.jpg\" class=\"photo photo-1\"&gt;\n  &lt;img src=\"personal/sunset.jpg\" class=\"photo photo-2\"&gt;\n  &lt;img src=\"personal/mina2026.jpg\" class=\"photo photo-3\"&gt;\n&lt;/div&gt;\n\n ←\n 1 / 2 \n→"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Christina Fan",
-    "section": "About",
-    "text": "About\nWelcome to my academic website! My name is Christina Fan and I’m a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo."
+    "section": "",
+    "text": "HBSC Psychology & Neuroscience student\nUniversity of Waterloo\nEmail\nLinkedIn\nGitHub\n\n\n\n\nWelcome to my academic website! My name is Christina Fan and I’m a fourth-year HBSc Psychology student minoring in Neuroscience at the University of Waterloo.\n\n\n\nMy research interests lie in understanding the neural mechanisms underlying cognition across healthy aging and neurodegenerative disease. I am particularly interested in memory and how changes in the brain contribute to cognitive decline, and I hope to investigate these questions through a multidisciplinary approach integrating neuroimaging, biomarkers, and neuropsychological assessment. By better understanding the neural mechanisms underlying cognitive aging and impairment, I hope to contribute to the development of more effective approaches for identifying, preventing, and mitigating cognitive decline.\n\n\n\nAs of Aug. 2026, I wrapped up a project at the Geriatric Neuropsychopharmacology Group at Sunnybrook Health Sciences Center. This project explored the moderation effect of vascular medication type on exercise-primed tDCS intervention effects on the cognition of older adults at risk of vascular Alzheimer’s disease and/or mild cognitive impairment.\nNow, I’m starting up my honors thesis exploring the mechanism behind data compression by comparing symbolic logic and Bayesian approaches to it. I’m also collecting data for a study at the Human Visual Neuroscience Lab at the University of Waterloo, titled “Using brain stimulation to enhance the orientation and mobility skills of individuals with visual impairments”."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Christina Fan",
+    "section": "",
+    "text": "Welcome to my academic website! My name is Christina Fan and I’m a fourth-year HBSc Psychology student minoring in Neuroscience at the University of Waterloo."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Christina Fan",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes that play a role in cognitive processes like memory, perception, and other functions.\nI’m currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits."
+    "section": "",
+    "text": "My research interests lie in understanding the neural mechanisms underlying cognition across healthy aging and neurodegenerative disease. I am particularly interested in memory and how changes in the brain contribute to cognitive decline, and I hope to investigate these questions through a multidisciplinary approach integrating neuroimaging, biomarkers, and neuropsychological assessment. By better understanding the neural mechanisms underlying cognitive aging and impairment, I hope to contribute to the development of more effective approaches for identifying, preventing, and mitigating cognitive decline."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
+    "objectID": "index.html#past-and-current-work",
+    "href": "index.html#past-and-current-work",
     "title": "Christina Fan",
-    "section": "Contact",
-    "text": "Contact\nFeel free to reach out to me at c24fan@uwaterloo.ca Thanks for dropping by my website :)"
+    "section": "",
+    "text": "As of Aug. 2026, I wrapped up a project at the Geriatric Neuropsychopharmacology Group at Sunnybrook Health Sciences Center. This project explored the moderation effect of vascular medication type on exercise-primed tDCS intervention effects on the cognition of older adults at risk of vascular Alzheimer’s disease and/or mild cognitive impairment.\nNow, I’m starting up my honors thesis exploring the mechanism behind data compression by comparing symbolic logic and Bayesian approaches to it. I’m also collecting data for a study at the Human Visual Neuroscience Lab at the University of Waterloo, titled “Using brain stimulation to enhance the orientation and mobility skills of individuals with visual impairments”."
   },
   {
     "objectID": "posters.html",

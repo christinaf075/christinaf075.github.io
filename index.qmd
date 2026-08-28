@@ -1,9 +1,26 @@
 ---
 title: "Christina Fan"
+title-block: none
 ---
-![](images/mmexport1691716909593.jpeg){width=250px}
+:::: {.home-layout}
+::: {.profile-sidebar}
 
-## About
+![](images/mmexport1691716909593.jpeg){.profile-photo}
+
+HBSC Psychology & Neuroscience student
+
+University of Waterloo
+
+[Email](mailto:fchristina075@gmail.com)  
+
+[LinkedIn](https://www.linkedin.com/in/christina-fan-9418b9277/)
+
+[GitHub](https://github.com/christinaf075)
+:::
+
+::: {.home-content}
+
+## About Me
 
 Welcome to my academic website! My name is Christina Fan and I'm a fourth-year HBSc Psychology student minoring in Neuroscience at the University of Waterloo.
 
@@ -16,3 +33,7 @@ My research interests lie in understanding the neural mechanisms underlying cogn
 As of Aug. 2026, I wrapped up a project at the Geriatric Neuropsychopharmacology Group at Sunnybrook Health Sciences Center. This project explored the moderation effect of vascular medication type on exercise-primed tDCS intervention effects on the cognition of older adults at risk of vascular Alzheimer's disease and/or mild cognitive impairment. 
 
 Now, I'm starting up my honors thesis exploring the mechanism behind data compression by comparing symbolic logic and Bayesian approaches to it. I'm also collecting data for a study at the Human Visual Neuroscience Lab at the University of Waterloo, titled "Using brain stimulation to enhance the orientation and mobility skills of individuals with visual impairments". 
+
+:::
+
+::::
