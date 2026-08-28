@@ -5,15 +5,14 @@ title: "Christina Fan"
 
 ## About
 
-Welcome to my academic website! My name is Christina Fan and I'm a third-year Psychology BSc student minoring in Neuroscience at the University of Waterloo.
+Welcome to my academic website! My name is Christina Fan and I'm a fourth-year HBSc Psychology student minoring in Neuroscience at the University of Waterloo.
 
 ## Research Interests
 
-My research interests lie at the intersection of cognitive neuroscience and health, specifically the underlying neural mechanisms and biological processes that play a role in cognitive processes like memory, perception, and other functions.
+My research interests lie in understanding the neural mechanisms underlying cognition across healthy aging and neurodegenerative disease. I am particularly interested in memory and how changes in the brain contribute to cognitive decline, and I hope to investigate these questions through a multidisciplinary approach integrating neuroimaging, biomarkers, and neuropsychological assessment. By better understanding the neural mechanisms underlying cognitive aging and impairment, I hope to contribute to the development of more effective approaches for identifying, preventing, and mitigating cognitive decline.
 
-I'm currently involved in two projects: Exploring the Effects of Aging on Multisensory Integration using ppTMS and Examining tDCS impact on reading skills of patients with visual deficits.
+## Past and Current Work
 
-## Contact
+As of Aug. 2026, I wrapped up a project at the Geriatric Neuropsychopharmacology Group at Sunnybrook Health Sciences Center. This project explored the moderation effect of vascular medication type on exercise-primed tDCS intervention effects on the cognition of older adults at risk of vascular Alzheimer's disease and/or mild cognitive impairment. 
 
-Feel free to reach out to me at c24fan@uwaterloo.ca
-Thanks for dropping by my website :)
+Now, I'm starting up my honors thesis exploring the mechanism behind data compression by comparing symbolic logic and Bayesian approaches to it. I'm also collecting data for a study at the Human Visual Neuroscience Lab at the University of Waterloo, titled "Using brain stimulation to enhance the orientation and mobility skills of individuals with visual impairments". 
