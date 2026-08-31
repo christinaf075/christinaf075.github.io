@@ -144,35 +144,57 @@ ul.task-list li input[type="checkbox"] {
 
 <p>When I’m not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)</p>
 <div class="personal-carousel">
-<!-- Slide 1 -->
-<div class="personal-slide active">
-<pre><code>&lt;h2&gt;A Little Life&lt;/h2&gt;
-
-&lt;div class="photo-collage"&gt;
-  &lt;img src="personal/food2024.jpg" class="photo photo-1"&gt;
-  &lt;img src="personal/food2025.jpg" class="photo photo-2"&gt;
-  &lt;img src="personal/smoothie2023.jpg" class="photo photo-3"&gt;
-  &lt;img src="personal/food2026.jpg" class="photo photo-4"&gt;
-  &lt;img src="personal/smoothie2025.jpg" class="photo photo-5"&gt;
-&lt;/div&gt;</code></pre>
+<section id="my-cooking" class="level3 personal-slide active">
+<h3 class="anchored" data-anchor-id="my-cooking">My Cooking</h3>
+<p><img src="personal/food2024.jpg" class="photo img-fluid"></p>
+</section>
+<section id="my-cooking-1" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="my-cooking-1">My Cooking</h3>
+<p><img src="personal/food2025.jpg" class="photo img-fluid"></p>
+</section>
+<section id="my-cooking-2" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="my-cooking-2">My Cooking</h3>
+<p><img src="personal/smoothie2023.jpg" class="photo img-fluid"></p>
+</section>
+<section id="my-cooking-3" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="my-cooking-3">My Cooking</h3>
+<p><img src="personal/food2026.jpg" class="photo img-fluid"></p>
+</section>
+<section id="my-cooking-4" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="my-cooking-4">My Cooking</h3>
+<p><img src="personal/smoothie2025.jpg" class="photo img-fluid"></p>
+</section>
+<section id="dogscenery" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="dogscenery">Dog/Scenery</h3>
+<p><img src="personal/minayears.jpg" class="photo img-fluid"></p>
+</section>
+<section id="dogscenery-1" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="dogscenery-1">Dog/Scenery</h3>
+<p><img src="personal/sunset.jpg" class="photo img-fluid"></p>
+</section>
+<section id="dogscenery-2" class="level3 personal-slide">
+<h3 class="anchored" data-anchor-id="dogscenery-2">Dog/Scenery</h3>
+<p><img src="personal/mina2026.jpg" class="photo img-fluid"></p>
+</section>
+<div class="carousel-controls">
+<button class="carousel-button prev" onclick="changeSlide(-1)">
+←
+</button>
+<p><span class="slide-counter"> <span id="slide-number">1</span> / <span id="slide-total"></span> </span></p>
+<button class="carousel-button next" onclick="changeSlide(1)">
+→
+</button>
 </div>
-<!-- Slide 2 -->
-<div class="personal-slide">
-<pre><code>&lt;h2&gt;Places&lt;/h2&gt;
-
-&lt;div class="photo-collage"&gt;
-  &lt;img src="personal/minayears.jpg" class="photo photo-1"&gt;
-  &lt;img src="personal/sunset.jpg" class="photo photo-2"&gt;
-  &lt;img src="personal/mina2026.jpg" class="photo photo-3"&gt;
-&lt;/div&gt;</code></pre>
-</div>
-<p><!-- Navigation --> <button class="carousel-button prev" onclick="changeSlide(-1)">←</button></p>
-<p><span class="slide-counter"> <span id="slide-number">1</span> / 2 </span></p>
-<p><button class="carousel-button next" onclick="changeSlide(1)">→</button></p>
 </div>
 <script>
 
 let currentSlide = 0;
+
+function updateCounter() {
+  const slides = document.querySelectorAll(".personal-slide");
+  document.getElementById("slide-total").textContent = slides.length;
+  document.getElementById("slide-number").textContent = currentSlide + 1;
+}
 
 function changeSlide(direction) {
 
@@ -192,9 +214,10 @@ function changeSlide(direction) {
 
   slides[currentSlide].classList.add("active");
 
-  document.getElementById("slide-number").textContent =
-    currentSlide + 1;
+  updateCounter();
 }
+
+updateCounter();
 
 </script>
 

@@ -1,56 +1,75 @@
 ---
 title: "Personal: Life and Hobbies"
+title-block: none
 ---
 
 When I'm not working, I like to cook, work out, and take my dog on walks. Please enjoy photo compilations of past meals and outdoor hikes below :)
 
-<div class="personal-carousel">
+::::{.personal-carousel}
 
-  <!-- Slide 1 -->
-  <div class="personal-slide active">
+:::{.personal-slide .active}
+### My Cooking
+![](personal/food2024.jpg){.photo}
+:::
 
-    <h2>A Little Life</h2>
+:::{.personal-slide}
+### My Cooking
+![](personal/food2025.jpg){.photo}
+:::
 
-    <div class="photo-collage">
-      <img src="personal/food2024.jpg" class="photo photo-1">
-      <img src="personal/food2025.jpg" class="photo photo-2">
-      <img src="personal/smoothie2023.jpg" class="photo photo-3">
-      <img src="personal/food2026.jpg" class="photo photo-4">
-      <img src="personal/smoothie2025.jpg" class="photo photo-5">
-    </div>
+:::{.personal-slide}
+### My Cooking
+![](personal/smoothie2023.jpg){.photo}
+:::
 
-  </div>
+:::{.personal-slide}
+### My Cooking
+![](personal/food2026.jpg){.photo}
+:::
 
+:::{.personal-slide}
+### My Cooking
+![](personal/smoothie2025.jpg){.photo}
+:::
 
-  <!-- Slide 2 -->
-  <div class="personal-slide">
+:::{.personal-slide}
+### Dog/Scenery
+![](personal/minayears.jpg){.photo}
+:::
 
-    <h2>Places</h2>
+:::{.personal-slide}
+### Dog/Scenery
+![](personal/sunset.jpg){.photo}
+:::
 
-    <div class="photo-collage">
-      <img src="personal/minayears.jpg" class="photo photo-1">
-      <img src="personal/sunset.jpg" class="photo photo-2">
-      <img src="personal/mina2026.jpg" class="photo photo-3">
-    </div>
+:::{.personal-slide}
+### Dog/Scenery
+![](personal/mina2026.jpg){.photo}
+:::
 
-  </div>
+::: {.carousel-controls}
 
+<button class="carousel-button prev" onclick="changeSlide(-1)">←</button>
 
-  <!-- Navigation -->
-  <button class="carousel-button prev" onclick="changeSlide(-1)">&#8592;</button>
+<span class="slide-counter">
+<span id="slide-number">1</span> / <span id="slide-total"></span>
+</span>
 
-  <span class="slide-counter">
-    <span id="slide-number">1</span> / 2
-  </span>
+<button class="carousel-button next" onclick="changeSlide(1)">→</button>
 
-  <button class="carousel-button next" onclick="changeSlide(1)">&#8594;</button>
+:::
 
-</div>
-
+::::
 
 <script>
 
 let currentSlide = 0;
+
+function updateCounter() {
+  const slides = document.querySelectorAll(".personal-slide");
+  document.getElementById("slide-total").textContent = slides.length;
+  document.getElementById("slide-number").textContent = currentSlide + 1;
+}
 
 function changeSlide(direction) {
 
@@ -70,8 +89,9 @@ function changeSlide(direction) {
 
   slides[currentSlide].classList.add("active");
 
-  document.getElementById("slide-number").textContent =
-    currentSlide + 1;
+  updateCounter();
 }
+
+updateCounter();
 
 </script>

@@ -55,3 +55,83 @@
   }
 
 }
+
+/* =========================
+   Personal gallery
+   ========================= */
+
+.personal-carousel {
+  width: 90vw;
+  max-width: 900px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+/* Slides */
+
+.personal-slide {
+  display: none;
+}
+
+.personal-slide.active {
+  display: block;
+}
+
+/* Group label above photo */
+
+.personal-slide h3 {
+  margin-bottom: 1rem;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+/* Single large photo */
+
+.personal-slide .photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 70vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* Navigation */
+
+.carousel-controls {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.carousel-button {
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  color: inherit;
+}
+
+.carousel-button:hover {
+  opacity: 0.6;
+}
+
+.slide-counter {
+  margin: 0 1rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+  .personal-slide .photo {
+    max-height: 50vh;
+  }
+}
